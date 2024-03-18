@@ -15,10 +15,10 @@ UE OSAP (Operating Systems and Application Programming) is a course designed to 
 This repository contains a mixture of homework, in-class exercises, and personal projects. Here's a breakdown of the content:
 
 - `ProgSystem/`: Exercises about UNIX system general utilities and core system calls.
-- `ProgReseau/`: Exercices about creating several client/server implementations, in TCP, UDP, and also a web server in C.
-- `ProgSocket/`: Exercices about UNIX Sockets.
-- `ProgPosix/`: An exercice to implement our own approximation of pi.
-- `ProgWindows/`: Exercices on Windows on Processes, Threads and .NET remoting.
+- `ProgReseau/`: Exercises about creating several client/server implementations, in TCP, UDP, and also a web server in C.
+- `ProgSocket/`: Exercises about UNIX Sockets.
+- `ProgPosix/`: An exercise to implement our own approximation of pi.
+- `ProgWindows/`: Exercises on Windows on Processes, Threads and .NET remoting.
 
 ## Tools and Technologies 🛠️
 
