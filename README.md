@@ -23,12 +23,13 @@ This repository contains a mixture of homework, in-class exercises, and personal
 
 Throughout this course, I've worked with a range of tools and technologies, including:
 
-- _OS_: MacOS Sonoma 14.3
-- _Shell_: Fish 3.7.0
-- _Terminal_: kitty
-- _Terminal multiplexer_: tmux
-- _Visualisation de processus_: htop
-- _C LSP + Formatter_: C v15.0.0-clangd
+- **OS**: MacOS Sonoma 14.3
+- **Shell**: Fish 3.7.0
+- **Terminal**: kitty
+- **Terminal multiplexer**: tmux
+- **Visualisation de processus**: htop
+- **C LSP + Formatter**: C v15.0.0-clangd
+- **IDE**: Nvim v0.9.5
 
 ## Learning Outcomes 🎯
 
