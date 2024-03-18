@@ -33,7 +33,7 @@ Throughout this course, I've worked with a range of tools and technologies, incl
 - **IDE**: Nvim v0.9.5
 - **Visual Studio 2022**: I developped on that IDE for the Windows Projects. (Windows, so previous tools are irrelevent)
 
-## Learning Outcomes 🎯
+## Learning Objectives 🎯
 
 By the end of this course, I aim to:
 
