@@ -18,6 +18,7 @@ This repository contains a mixture of homework, in-class exercises, and personal
 - `ProgReseau/`: Exercices about creating several client/server implementations, in TCP, UDP, and also a web server in C.
 - `ProgSocket/`: Exercices about UNIX Sockets.
 - `ProgPosix/`: An exercice to implement our own approximation of pi.
+- `ProgWindows/`: Exercices on Windows on Processes, Threads and .NET remoting.
 
 ## Tools and Technologies 🛠️
 
@@ -30,6 +31,7 @@ Throughout this course, I've worked with a range of tools and technologies, incl
 - **Visualisation de processus**: htop
 - **C LSP + Formatter**: C v15.0.0-clangd
 - **IDE**: Nvim v0.9.5
+- **Visual Studio 2022**: I developped on that IDE for the Windows Projects. (Windows, so previous tools are irrelevent)
 
 ## Learning Outcomes 🎯
 
