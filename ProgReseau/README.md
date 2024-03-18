@@ -1,7 +1,5 @@
 # Rendu TP 2 Linux OSAP
 
-**Nom**: Cudennec Gaël
-
 **Environnement de travail utilisé** :
 
 - _OS_: MacOS Sonoma 14.3
